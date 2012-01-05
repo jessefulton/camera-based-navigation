@@ -1,0 +1,1 @@
+var script = document.createElement('script');script.src = 'http://jessefulton.com/js/playground/motion-tracking/js/bookmarklet.js?v=1';script.type = 'text/javascript';document.getElementsByTagName('head')[0].appendChild(script);void 0;
